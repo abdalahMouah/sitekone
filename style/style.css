@@ -1,0 +1,33 @@
+
+#silo{
+    color : #2c74ab;
+    font-family: 'BROADW';
+    font-size: 30px;
+
+}
+#definition{
+    color:#60685a ;
+    font-family: calibri;
+    font-size: 15px;
+}
+#s{
+    font-size: 20;
+}
+#logo{
+   line-height: 20px;
+}
+
+@font-face{
+    font-family: 'BROADW' ;
+    src: url('BROADW.TTF');
+
+}
+@font-face{
+    font-family: 'calibri' ;
+    src: url('calibri.ttf');
+
+}
+
+a{
+   font-size: 20px;
+}
